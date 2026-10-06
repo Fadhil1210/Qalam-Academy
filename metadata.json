@@ -1,0 +1,6 @@
+{
+  "name": "Qalam Academy",
+  "description": "Plateforme d'enseignement d'arabe et d'études islamiques en ligne avec cours en direct, bibliothèque de ressources, forum collaboratif et tuteur IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
